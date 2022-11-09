@@ -7,6 +7,6 @@ public class Test : MonoBehaviour
 {
     public void TestPrint()
     {
-        Debug.Log("This is from main");
+        Debug.Log("This is from Branch Green");
     }
 }
